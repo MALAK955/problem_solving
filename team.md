@@ -8,7 +8,8 @@ https://codeforces.com/group/1lvPqewYjC/contest/658324/problem/E
 
 *new solution*
 
-```#include <iostream>
+```
+#include <iostream>
 using namespace std;
 int main() {
     int n;
@@ -23,8 +24,8 @@ int main() {
     }
     cout << solved;
     return 0;
-}```
-
+}
+```
 *notes*
 - it wasn't nesecceray to make 3 arrays because we r going to pass by everyelement for one time only
 - مكنش ليه لازمه نعمل ارراي واحنا هنعدي علي كل عنصر مره واحده 
