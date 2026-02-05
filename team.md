@@ -4,6 +4,6 @@ https://codeforces.com/group/1lvPqewYjC/contest/658324/problem/E
 
 #old solution
 
-in ./team.cpp
+[Open team.cpp](./team.cpp)
 
 #new solution
