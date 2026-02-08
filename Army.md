@@ -27,3 +27,6 @@ int main() {
     return 0;
 }
 ```
+# notes 
+1- first i always start from  rank 1 to the exact rank vasya want and that's not correct he can start with any rank 
+ف الاول مكنش ينفع ابدا من رانك 1 لان فاسيا ممكن يبدا من اي رانك عادي 
