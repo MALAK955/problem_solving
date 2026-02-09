@@ -21,8 +21,7 @@ https://codeforces.com/group/1lvPqewYjC/contest/658324/problem/U
                 }
             }
         }
-```
-- here i put n and that is not the right way cause the frequency counts 0's also so we don't even see the last number or calculate it.
+``` here i put n and that is not the right way cause the frequency counts 0's also so we don't even see the last number or calculate it.
 
 
 
