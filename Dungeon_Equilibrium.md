@@ -10,9 +10,9 @@
    ```cpp
    int arr[100] = { 0 };
    ```
-The Issue: i set the size to 100 since the array is 0-indexed we won't reach the 100 and if the input is 100 then we will get Stack Corruption error.
+   The Issue: i set the size to 100 since the array is 0-indexed we won't reach the 100 and if the input is 100 then we will get Stack Corruption error.
 
-The Fix: we will put the size at least 101.
+   The Fix: we will put the size at least 101.
 
 
 
