@@ -20,7 +20,7 @@
    ```
    The Issue: using i<n means the loop will stop at n-1 then the frequency of the last number will never be calculated.
    The Fix: to include the last one we can do (i<=n) or (i<n+1) both are fine.
-   ## final code
+   ## Final Code
    ```cpp
    #include <iostream>
    #include <stack>
@@ -54,5 +54,5 @@
        return 0;
    }
    ```
-
+## 💡 Future Optimization:
 
