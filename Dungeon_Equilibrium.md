@@ -22,7 +22,7 @@
    The Fix: to include the last one we can do (i<=n) or (i<n+1) both are fine.
    ## final code
    ```cpp
-   #include <iostream>
+#include <iostream>
 #include <stack>
 #include <vector>
 #include <cmath>
