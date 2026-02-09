@@ -55,4 +55,4 @@
    }
    ```
 ## 💡 Future Optimization:
-
+   - For simillar frequency problems we can use the map data structure 
