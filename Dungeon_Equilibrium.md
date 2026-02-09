@@ -14,5 +14,11 @@
 
    The Fix: we will put the size at least 101.
 
+2. **Loop Boundary Logic:**
+   ```cpp
+   for (int i = 0; i < n; i++) { ... }
+   ```
+   The Issue: using i<n means the loop will stop at n-1 then the frequency of the last number will never be calculated.
+   The Fix: to include the last one we can do (i<=n) or (i<n+1) both are fine.
 
 
