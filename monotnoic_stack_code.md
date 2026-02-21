@@ -1,7 +1,5 @@
 # Monotnoic_stack
-```cpp
-// بسم الله الرحمن الرحيم
-// صلي علي النبي   
+```cpp   
 #include <iostream>
 #include <iomanip>
 #include <string>
