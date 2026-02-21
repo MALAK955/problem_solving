@@ -1,5 +1,25 @@
 # Monotnoic_stack
 ``cpp
+// بسم الله الرحمن الرحيم
+// صلي علي النبي   
+#include <iostream>
+#include <iomanip>
+#include <string>
+#include <vector>
+#include <queue>
+#include <deque>
+#include <set>
+#include <unordered_set>
+#include <algorithm>
+#include <stack>
+#include <map>
+#include <cmath>
+#define el endl
+#define ll long long
+#define hunter ios::sync_with_stdio(false); cin.tie(NULL);
+using namespace std;
+int main() {
+    hunter;
     vector<int> v = { 13,8,1,5,9,4,12 };
     vector<int>ans(7, -1);
     stack<int>monotonic;
@@ -13,4 +33,6 @@
         monotonic.push(v[i]);
     }
     for (auto it : ans) cout << it << " ";
+    return 0;
+}
     ```
