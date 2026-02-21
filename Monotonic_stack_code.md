@@ -1,4 +1,4 @@
-# Monotnoic_stack
+# Monotonic_stack
 ```cpp   
 #include <iostream>
 #include <iomanip>
